@@ -13,5 +13,5 @@ Esse projeto implementa o sistema CRUD(Create, Read, Update, Delete) para gerenc
 - Java
 - MySQL
 
-  ### Autor
-  Miguel Marques Quartaroli
+### Autor
+Miguel Marques Quartaroli
